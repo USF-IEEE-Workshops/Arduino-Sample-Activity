@@ -17,6 +17,6 @@ void loop() {
   digitalWrite(LED1,LOW);//set pin 2 to the "low" or "off" state
   delay(100);//delay measured in miliseconds
   digitalWrite(LED2,HIGH);//set pin 3 to the "high" or "on" state
-  delay(2000);//delay measured in miliseconds
+  delay(10);//delay measured in miliseconds
   digitalWrite(LED2,LOW);//set pin 3 to the "low" or "off" state
 }
